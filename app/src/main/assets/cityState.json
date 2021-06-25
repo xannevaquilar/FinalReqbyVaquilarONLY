@@ -1,0 +1,119 @@
+{
+  "citylist": [
+    {
+      "id": 1,
+      "Town": "Sta. Maria",
+      "Barangay": "Bal-loy"
+    },
+    {
+      "id": 2,
+      "Town": "Sta. Maria",
+      "Barangay": "Bantog"
+    },
+    {
+      "id": 3,
+      "Town": "Sta. Maria",
+      "Barangay": "Caboluan"
+    },
+    {
+      "id": 4,
+      "Town": "Sta. Maria",
+      "Barangay": "Cal-litang"
+    },
+    {
+      "id": 5,
+      "Town": "Sta. Maria",
+      "Barangay": "Capandanan"
+    },
+    {
+      "id": 6,
+      "Town": "Sta. Maria",
+      "Barangay": "Cauplasan"
+    },
+    {
+      "id": 7,
+      "Town": "Sta. Maria",
+      "Barangay": "Dalayap"
+    },
+    {
+      "id": 8,
+      "Town": "Sta. Maria",
+      "Barangay": "Libsong"
+    },
+    {
+      "id": 9,
+      "Town": "Sta. Maria",
+      "Barangay": "Namagbagan"
+    },
+    {
+      "id": 10,
+      "Town": "Sta. Maria",
+      "Barangay": "Paitan"
+    },
+    {
+      "id": 11,
+      "Town": "Sta. Maria",
+      "Barangay": "Pataquid"
+    },
+    {
+      "id": 12,
+      "Town": "Sta. Maria",
+      "Barangay": "Pilar"
+    },
+    {
+      "id": 13,
+      "Town": "Sta. Maria",
+      "Barangay": "Poblacion East"
+    },
+    {
+      "id": 14,
+      "Town": "Sta. Maria",
+      "Barangay": "Poblacion West"
+    },
+    {
+      "id": 15,
+      "Town": "Sta. Maria",
+      "Barangay": "Pugot"
+    },
+    {
+      "id": 16,
+      "Town": "Sta. Maria",
+      "Barangay": "Samon"
+    },
+    {
+      "id": 17,
+      "Town": "Sta. Maria",
+      "Barangay": "San Alejandro"
+    },
+    {
+      "id": 18,
+      "Town": "Sta. Maria",
+      "Barangay": "San Mariano"
+    },
+    {
+      "id": 19,
+      "Town": "Sta. Maria",
+      "Barangay": "San Pablo"
+    },
+    {
+      "id": 20,
+      "Town": "Sta. Maria",
+      "Barangay": "San Patricio"
+    },
+    {
+      "id": 21,
+      "Town": "Sta. Maria",
+      "Barangay": "San Vicente"
+    },
+    {
+      "id": 22,
+      "Town": "Sta. Maria",
+      "Barangay": "Santa Cruz"
+    },
+    {
+      "id": 23,
+      "Town": "Sta. Maria",
+      "Barangay": "Santa Rosa"
+    }
+  ]
+}

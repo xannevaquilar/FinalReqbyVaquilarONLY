@@ -1,0 +1,96 @@
+{
+  "statelist": [
+    {
+      "id": 1,
+      "Barangay": "Bal-loy"
+    },
+    {
+      "id": 2,
+      "Barangay": "Bantog"
+    },
+    {
+      "id": 3,
+      "Barangay": "Caboluan"
+    },
+    {
+      "id": 4,
+      "Barangay": "Cal-litang"
+    },
+    {
+      "id": 5,
+      "Barangay": "Capandanan"
+    },
+    {
+      "id": 6,
+      "Barangay": "Cauplasan"
+    },
+    {
+      "id": 7,
+      "Barangay": "Dalayap"
+    },
+    {
+      "id": 8,
+      "Barangay": "Libsong"
+    },
+    {
+      "id": 9,
+      "Barangay": "Namagbagan"
+    },
+    {
+      "id": 10,
+      "Barangay": "Paitan"
+    },
+    {
+      "id": 11,
+      "Barangay": "Pataquid"
+    },
+    {
+      "id": 12,
+      "Barangay": "Pilar"
+    },
+    {
+      "id": 13,
+      "Barangay": "Poblacion East"
+    },
+    {
+      "id": 14,
+      "Barangay": "Poblacion West"
+    },
+    {
+      "id": 15,
+      "Barangay": "Pugot"
+    },
+    {
+      "id": 16,
+      "Barangay": "Samon"
+    },
+    {
+      "id": 17,
+      "Barangay": "San Alejandro"
+    },
+    {
+      "id": 18,
+      "Barangay": "San Mariano"
+    },
+    {
+      "id": 19,
+      "Barangay": "San Pablo"
+    },
+    {
+      "id": 20,
+      "Barangay": "San Patricio"
+    },
+    {
+      "id": 21,
+      "Barangay": "San Vicente"
+    },
+    {
+      "id": 22,
+      "Barangay": "Santa Cruz"
+    },
+    {
+      "id": 23,
+      "Barangay": "Santa Rosa"
+    }
+  ]
+}
